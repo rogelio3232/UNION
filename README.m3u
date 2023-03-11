@@ -1,0 +1,192 @@
+#EXTM3U
+#EXTINF:-1,ENC1 HD Animal Planet
+http://45.238.20.129:8000/play/a02r
+#EXTINF:-1,ENC1 HD Canal de las Estrellas
+http://45.238.20.129:8000/play/a02d
+#EXTINF:-1,ENC1 HD ESPN 2
+http://45.238.20.129:8000/play/a02i
+#EXTINF:-1,ENC1 HD Golden Edge
+http://45.238.20.129:8000/play/a02s
+#EXTINF:-1,ENC1 HD Warner TV
+http://45.238.20.129:8000/play/a02h
+#EXTINF:-1,ENC2 HD ESPN Extra
+http://45.238.20.129:8000/play/a02w
+#EXTINF:-1,ENC2 HD Food Network
+http://45.238.20.129:8000/play/a02v
+#EXTINF:-1,ENC2 HD Golden Plus
+http://45.238.20.129:8000/play/a02u
+#EXTINF:-1,ENC2 HD Hilton Garden TV
+http://45.238.20.129:8000/play/a02j
+#EXTINF:-1,ENC2 HD Pasiones
+http://45.238.20.129:8000/play/a02t
+#EXTINF:-1,ETC Chile
+http://45.238.20.129:8000/play/a032
+#EXTINF:-1,Port1 CNN Internacional
+http://45.238.20.129:8000/play/a00s
+#EXTINF:-1,Port1 Cartonito
+http://45.238.20.129:8000/play/a00q
+#EXTINF:-1,Port1 Discovery Channel
+http://45.238.20.129:8000/play/a02m
+#EXTINF:-1,Port1 Discovery Kids
+http://45.238.20.129:8000/play/a00p
+#EXTINF:-1,Port1 Fox Sports 1
+http://45.238.20.129:8000/play/a02z
+#EXTINF:-1,Port1 HD AMC
+http://45.238.20.129:8000/play/a011
+#EXTINF:-1,Port1 HD CHV
+http://45.238.20.129:8000/play/a00v
+#EXTINF:-1,Port1 HD Canal 13
+http://45.238.20.129:8000/play/a004
+#EXTINF:-1,Port1 HD FX
+http://45.238.20.129:8000/play/a00y
+#EXTINF:-1,Port1 HD Mega
+http://45.238.20.129:8000/play/a00u
+#EXTINF:-1,Port1 HD National Geographic
+http://45.238.20.129:8000/play/a010
+#EXTINF:-1,Port1 HD STAR Channel
+http://45.238.20.129:8000/play/a00x
+#EXTINF:-1,Port1 HD Space
+http://45.238.20.129:8000/play/a00z
+#EXTINF:-1,Port1 HD TVN
+http://45.238.20.129:8000/play/a00t
+#EXTINF:-1,Port1 Investigation Discovery
+http://45.238.20.129:8000/play/a012
+#EXTINF:-1,Port1 Isat
+http://45.238.20.129:8000/play/a016
+#EXTINF:-1,Port1 Multipremier
+http://45.238.20.129:8000/play/a014
+#EXTINF:-1,Port1 Nick Jr
+http://45.238.20.129:8000/play/a00o
+#EXTINF:-1,Port1 Studio Universal
+http://45.238.20.129:8000/play/a015
+#EXTINF:-1,Port1 TBS Very Funny
+http://45.238.20.129:8000/play/a02o
+#EXTINF:-1,Port1 TCM
+http://45.238.20.129:8000/play/a017
+#EXTINF:-1,Port1 ToonCast
+http://45.238.20.129:8000/play/a00r
+#EXTINF:-1,Port1 TruTV
+http://45.238.20.129:8000/play/a02y
+#EXTINF:-1,Port1 Universal TV
+http://45.238.20.129:8000/play/a013
+#EXTINF:-1,Port2 A&E
+http://45.238.20.129:8000/play/a01g
+#EXTINF:-1,Port2 CNN Español
+http://45.238.20.129:8000/play/a018
+#EXTINF:-1,Port2 DePeliculas
+http://45.238.20.129:8000/play/a01i
+#EXTINF:-1,Port2 Discovery Science
+http://45.238.20.129:8000/play/a02n
+#EXTINF:-1,Port2 Discovery Turbo
+http://45.238.20.129:8000/play/a01r
+#EXTINF:-1,Port2 E!
+http://45.238.20.129:8000/play/a01k
+#EXTINF:-1,Port2 HBO Xtreme
+http://45.238.20.129:8000/play/a01j
+#EXTINF:-1,Port2 HD Cinecanal
+http://45.238.20.129:8000/play/a01c
+#EXTINF:-1,Port2 HD ESPN
+http://45.238.20.129:8000/play/a01a
+#EXTINF:-1,Port2 HD HGTV
+http://45.238.20.129:8000/play/a01f
+#EXTINF:-1,Port2 HD Sun Channel
+http://45.238.20.129:8000/play/a01e
+#EXTINF:-1,Port2 HD TNT
+http://45.238.20.129:8000/play/a01d
+#EXTINF:-1,Port2 HD TNT Series
+http://45.238.20.129:8000/play/a01b
+#EXTINF:-1,Port2 HTV
+http://45.238.20.129:8000/play/a01n
+#EXTINF:-1,Port2 History
+http://45.238.20.129:8000/play/a01o
+#EXTINF:-1,Port2 History2
+http://45.238.20.129:8000/play/a01p
+#EXTINF:-1,Port2 Lifetime
+http://45.238.20.129:8000/play/a02p
+#EXTINF:-1,Port2 MTV
+http://45.238.20.129:8000/play/a01m
+#EXTINF:-1,Port2 RT
+http://45.238.20.129:8000/play/a02k
+#EXTINF:-1,Port2 Sony
+http://45.238.20.129:8000/play/a01h
+#EXTINF:-1,Port2 TLC
+http://45.238.20.129:8000/play/a01l
+#EXTINF:-1,Port2 TNT Sport 3
+http://45.238.20.129:8000/play/a01q
+#EXTINF:-1,Port3 Bethel Tv
+http://45.238.20.129:8000/play/a02b
+#EXTINF:-1,Port3 Bolivia TV
+http://45.238.20.129:8000/play/a029
+#EXTINF:-1,Port3 CNN Chile
+http://45.238.20.129:8000/play/a01v
+#EXTINF:-1,Port3 Caracol Internacional
+http://45.238.20.129:8000/play/a026
+#EXTINF:-1,Port3 Comedy Center
+http://45.238.20.129:8000/play/a023
+#EXTINF:-1,Port3 ESPN 4
+http://45.238.20.129:8000/play/a028
+#EXTINF:-1,Port3 EWTN
+http://45.238.20.129:8000/play/a02a
+#EXTINF:-1,Port3 Funbox
+http://45.238.20.129:8000/play/a01t
+#EXTINF:-1,Port3 HD ESPN3
+http://45.238.20.129:8000/play/a01y
+#EXTINF:-1,Port3 HD Hola TV
+http://45.238.20.129:8000/play/a020
+#EXTINF:-1,Port3 HD TNT Sport
+http://45.238.20.129:8000/play/a01z
+#EXTINF:-1,Port3 La Red
+http://45.238.20.129:8000/play/a01x
+#EXTINF:-1,Port3 NTV
+http://45.238.20.129:8000/play/a01s
+#EXTINF:-1,Port3 Paramount
+http://45.238.20.129:8000/play/a024
+#EXTINF:-1,Port3 RCN
+http://45.238.20.129:8000/play/a02q
+#EXTINF:-1,Port3 TVN 24 Horas
+http://45.238.20.129:8000/play/a01w
+#EXTINF:-1,Port3 TeleFe
+http://45.238.20.129:8000/play/a027
+#EXTINF:-1,Port3 Telemundo Internacional
+http://45.238.20.129:8000/play/a025
+#EXTINF:-1,Port3 Telesur
+http://45.238.20.129:8000/play/a01u
+#EXTINF:-1,Port4 Disney Jr
+http://45.238.20.129:8000/play/a005
+#EXTINF:-1,Port4 Cinemax
+http://45.238.20.129:8000/play/a00e
+#EXTINF:-1,Port4 El Gourmet
+http://45.238.20.129:8000/play/a00j
+#EXTINF:-1,Port4 GolTV
+http://45.238.20.129:8000/play/a00m
+#EXTINF:-1,Port4 HBO Family
+http://45.238.20.129:8000/play/a00h
+#EXTINF:-1,Port4 HBO Plus
+http://45.238.20.129:8000/play/a00i
+#EXTINF:-1,Port4 HBO2
+http://45.238.20.129:8000/play/a00g
+#EXTINF:-1,Port4 HD AXN
+http://45.238.20.129:8000/play/a00b
+#EXTINF:-1,Port4 HD Cartoon Network
+http://45.238.20.129:8000/play/a003
+#EXTINF:-1,Port4 HD Fox Sport 2
+http://45.238.20.129:8000/play/a009
+#EXTINF:-1,Port4 HD Fox Sport 3
+http://45.238.20.129:8000/play/a00a
+#EXTINF:-1,Port4 HD H&H
+http://45.238.20.129:8000/play/a00d
+#EXTINF:-1,Port4 HD HBO
+http://45.238.20.129:8000/play/a00f
+#EXTINF:-1,Port4 HD Nick
+http://45.238.20.129:8000/play/a006
+#EXTINF:-1,Port4 HD TYC Sport
+http://45.238.20.129:8000/play/a008
+#EXTINF:-1,Port4 TVE
+http://45.238.20.129:8000/play/a00k
+#EXTINF:-1,Port4 Teletrak
+http://45.238.20.129:8000/play/a00l
+#EXTINF:-1,TL Novelas
+http://45.238.20.129:8000/play/a031
+#EXTINF:-1,TruTV
+http://45.238.20.129:8000/play/a030
+
